@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/akshajchainani/leetcode/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/akshajchainani/leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/akshajchainani/leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0209-minimum-size-subarray-sum](https://github.com/akshajchainani/leetcode/tree/master/0209-minimum-size-subarray-sum) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/akshajchainani/leetcode/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0496-next-greater-element-i](https://github.com/akshajchainani/leetcode/tree/master/0496-next-greater-element-i) |
 | [0860-design-circular-queue](https://github.com/akshajchainani/leetcode/tree/master/0860-design-circular-queue) |
@@ -65,6 +66,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/akshajchainani/leetcode/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/akshajchainani/leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0209-minimum-size-subarray-sum](https://github.com/akshajchainani/leetcode/tree/master/0209-minimum-size-subarray-sum) |
 | [0882-peak-index-in-a-mountain-array](https://github.com/akshajchainani/leetcode/tree/master/0882-peak-index-in-a-mountain-array) |
 ## Hash Table
 |  |
@@ -98,9 +100,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Prefix Sum
 |  |
 | ------- |
+| [0209-minimum-size-subarray-sum](https://github.com/akshajchainani/leetcode/tree/master/0209-minimum-size-subarray-sum) |
 | [1603-running-sum-of-1d-array](https://github.com/akshajchainani/leetcode/tree/master/1603-running-sum-of-1d-array) |
 ## Monotonic Stack
 |  |
 | ------- |
 | [0496-next-greater-element-i](https://github.com/akshajchainani/leetcode/tree/master/0496-next-greater-element-i) |
+## Sliding Window
+|  |
+| ------- |
+| [0209-minimum-size-subarray-sum](https://github.com/akshajchainani/leetcode/tree/master/0209-minimum-size-subarray-sum) |
 <!---LeetCode Topics End-->
