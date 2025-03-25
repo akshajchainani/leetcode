@@ -51,6 +51,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0191-number-of-1-bits](https://github.com/akshajchainani/leetcode/tree/master/0191-number-of-1-bits) |
 | [0231-power-of-two](https://github.com/akshajchainani/leetcode/tree/master/0231-power-of-two) |
 | [1054-complement-of-base-10-integer](https://github.com/akshajchainani/leetcode/tree/master/1054-complement-of-base-10-integer) |
+| [2509-minimize-xor](https://github.com/akshajchainani/leetcode/tree/master/2509-minimize-xor) |
 ## Recursion
 |  |
 | ------- |
@@ -110,4 +111,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/akshajchainani/leetcode/tree/master/0209-minimum-size-subarray-sum) |
+## Greedy
+|  |
+| ------- |
+| [2509-minimize-xor](https://github.com/akshajchainani/leetcode/tree/master/2509-minimize-xor) |
 <!---LeetCode Topics End-->
