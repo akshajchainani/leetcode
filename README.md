@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1319-unique-number-of-occurrences](https://github.com/akshajchainani/leetcode/tree/master/1319-unique-number-of-occurrences) |
 | [1524-string-matching-in-an-array](https://github.com/akshajchainani/leetcode/tree/master/1524-string-matching-in-an-array) |
 | [1603-running-sum-of-1d-array](https://github.com/akshajchainani/leetcode/tree/master/1603-running-sum-of-1d-array) |
+| [2465-shifting-letters-ii](https://github.com/akshajchainani/leetcode/tree/master/2465-shifting-letters-ii) |
 ## Linked List
 |  |
 | ------- |
@@ -101,6 +102,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0020-valid-parentheses](https://github.com/akshajchainani/leetcode/tree/master/0020-valid-parentheses) |
 | [0071-simplify-path](https://github.com/akshajchainani/leetcode/tree/master/0071-simplify-path) |
 | [1524-string-matching-in-an-array](https://github.com/akshajchainani/leetcode/tree/master/1524-string-matching-in-an-array) |
+| [2465-shifting-letters-ii](https://github.com/akshajchainani/leetcode/tree/master/2465-shifting-letters-ii) |
 ## Stack
 |  |
 | ------- |
@@ -113,6 +115,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/akshajchainani/leetcode/tree/master/0209-minimum-size-subarray-sum) |
 | [1603-running-sum-of-1d-array](https://github.com/akshajchainani/leetcode/tree/master/1603-running-sum-of-1d-array) |
+| [2465-shifting-letters-ii](https://github.com/akshajchainani/leetcode/tree/master/2465-shifting-letters-ii) |
 ## Monotonic Stack
 |  |
 | ------- |
