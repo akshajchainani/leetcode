@@ -57,6 +57,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0191-number-of-1-bits](https://github.com/akshajchainani/leetcode/tree/master/0191-number-of-1-bits) |
 | [0231-power-of-two](https://github.com/akshajchainani/leetcode/tree/master/0231-power-of-two) |
 | [1054-complement-of-base-10-integer](https://github.com/akshajchainani/leetcode/tree/master/1054-complement-of-base-10-integer) |
+| [2059-unique-length-3-palindromic-subsequences](https://github.com/akshajchainani/leetcode/tree/master/2059-unique-length-3-palindromic-subsequences) |
 | [2509-minimize-xor](https://github.com/akshajchainani/leetcode/tree/master/2509-minimize-xor) |
 ## Recursion
 |  |
@@ -83,6 +84,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0442-find-all-duplicates-in-an-array](https://github.com/akshajchainani/leetcode/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0496-next-greater-element-i](https://github.com/akshajchainani/leetcode/tree/master/0496-next-greater-element-i) |
 | [1319-unique-number-of-occurrences](https://github.com/akshajchainani/leetcode/tree/master/1319-unique-number-of-occurrences) |
+| [2059-unique-length-3-palindromic-subsequences](https://github.com/akshajchainani/leetcode/tree/master/2059-unique-length-3-palindromic-subsequences) |
 ## Tree
 |  |
 | ------- |
@@ -102,6 +104,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0020-valid-parentheses](https://github.com/akshajchainani/leetcode/tree/master/0020-valid-parentheses) |
 | [0071-simplify-path](https://github.com/akshajchainani/leetcode/tree/master/0071-simplify-path) |
 | [1524-string-matching-in-an-array](https://github.com/akshajchainani/leetcode/tree/master/1524-string-matching-in-an-array) |
+| [2059-unique-length-3-palindromic-subsequences](https://github.com/akshajchainani/leetcode/tree/master/2059-unique-length-3-palindromic-subsequences) |
 | [2465-shifting-letters-ii](https://github.com/akshajchainani/leetcode/tree/master/2465-shifting-letters-ii) |
 ## Stack
 |  |
@@ -115,6 +118,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/akshajchainani/leetcode/tree/master/0209-minimum-size-subarray-sum) |
 | [1603-running-sum-of-1d-array](https://github.com/akshajchainani/leetcode/tree/master/1603-running-sum-of-1d-array) |
+| [2059-unique-length-3-palindromic-subsequences](https://github.com/akshajchainani/leetcode/tree/master/2059-unique-length-3-palindromic-subsequences) |
 | [2465-shifting-letters-ii](https://github.com/akshajchainani/leetcode/tree/master/2465-shifting-letters-ii) |
 ## Monotonic Stack
 |  |
