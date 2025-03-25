@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0860-design-circular-queue](https://github.com/akshajchainani/leetcode/tree/master/0860-design-circular-queue) |
 | [0882-peak-index-in-a-mountain-array](https://github.com/akshajchainani/leetcode/tree/master/0882-peak-index-in-a-mountain-array) |
 | [1319-unique-number-of-occurrences](https://github.com/akshajchainani/leetcode/tree/master/1319-unique-number-of-occurrences) |
+| [1524-string-matching-in-an-array](https://github.com/akshajchainani/leetcode/tree/master/1524-string-matching-in-an-array) |
 | [1603-running-sum-of-1d-array](https://github.com/akshajchainani/leetcode/tree/master/1603-running-sum-of-1d-array) |
 ## Linked List
 |  |
@@ -97,6 +98,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0005-longest-palindromic-substring](https://github.com/akshajchainani/leetcode/tree/master/0005-longest-palindromic-substring) |
 | [0020-valid-parentheses](https://github.com/akshajchainani/leetcode/tree/master/0020-valid-parentheses) |
 | [0071-simplify-path](https://github.com/akshajchainani/leetcode/tree/master/0071-simplify-path) |
+| [1524-string-matching-in-an-array](https://github.com/akshajchainani/leetcode/tree/master/1524-string-matching-in-an-array) |
 ## Stack
 |  |
 | ------- |
@@ -125,4 +127,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0088-merge-sorted-array](https://github.com/akshajchainani/leetcode/tree/master/0088-merge-sorted-array) |
+## String Matching
+|  |
+| ------- |
+| [1524-string-matching-in-an-array](https://github.com/akshajchainani/leetcode/tree/master/1524-string-matching-in-an-array) |
 <!---LeetCode Topics End-->
