@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Design
 |  |
 | ------- |
+| [0155-min-stack](https://github.com/akshajchainani/leetcode/tree/master/0155-min-stack) |
 | [0860-design-circular-queue](https://github.com/akshajchainani/leetcode/tree/master/0860-design-circular-queue) |
 ## Queue
 |  |
@@ -90,6 +91,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/akshajchainani/leetcode/tree/master/0020-valid-parentheses) |
+| [0155-min-stack](https://github.com/akshajchainani/leetcode/tree/master/0155-min-stack) |
 ## Prefix Sum
 |  |
 | ------- |
