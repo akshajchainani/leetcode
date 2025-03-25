@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/akshajchainani/leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/akshajchainani/leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0860-design-circular-queue](https://github.com/akshajchainani/leetcode/tree/master/0860-design-circular-queue) |
+| [1319-unique-number-of-occurrences](https://github.com/akshajchainani/leetcode/tree/master/1319-unique-number-of-occurrences) |
 ## Linked List
 |  |
 | ------- |
@@ -51,4 +52,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/akshajchainani/leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+## Hash Table
+|  |
+| ------- |
+| [1319-unique-number-of-occurrences](https://github.com/akshajchainani/leetcode/tree/master/1319-unique-number-of-occurrences) |
 <!---LeetCode Topics End-->
