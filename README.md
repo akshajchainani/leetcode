@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0860-design-circular-queue](https://github.com/akshajchainani/leetcode/tree/master/0860-design-circular-queue) |
 | [0882-peak-index-in-a-mountain-array](https://github.com/akshajchainani/leetcode/tree/master/0882-peak-index-in-a-mountain-array) |
 | [1319-unique-number-of-occurrences](https://github.com/akshajchainani/leetcode/tree/master/1319-unique-number-of-occurrences) |
+| [1603-running-sum-of-1d-array](https://github.com/akshajchainani/leetcode/tree/master/1603-running-sum-of-1d-array) |
 ## Linked List
 |  |
 | ------- |
@@ -89,4 +90,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/akshajchainani/leetcode/tree/master/0020-valid-parentheses) |
+## Prefix Sum
+|  |
+| ------- |
+| [1603-running-sum-of-1d-array](https://github.com/akshajchainani/leetcode/tree/master/1603-running-sum-of-1d-array) |
 <!---LeetCode Topics End-->
