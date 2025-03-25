@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/akshajchainani/leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/akshajchainani/leetcode/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0860-design-circular-queue](https://github.com/akshajchainani/leetcode/tree/master/0860-design-circular-queue) |
+| [0882-peak-index-in-a-mountain-array](https://github.com/akshajchainani/leetcode/tree/master/0882-peak-index-in-a-mountain-array) |
 | [1319-unique-number-of-occurrences](https://github.com/akshajchainani/leetcode/tree/master/1319-unique-number-of-occurrences) |
 ## Linked List
 |  |
@@ -55,6 +56,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/akshajchainani/leetcode/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/akshajchainani/leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0882-peak-index-in-a-mountain-array](https://github.com/akshajchainani/leetcode/tree/master/0882-peak-index-in-a-mountain-array) |
 ## Hash Table
 |  |
 | ------- |
